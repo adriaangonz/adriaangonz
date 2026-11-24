@@ -1,53 +1,49 @@
-### 👋 ¡Buenas! Soy Adrián (`@adriaangonz`)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img alt="Adrián González - @adriaangonz" src="./assets/header-dark.svg" width="100%" />
+</picture>
 
-> *Estudiante de **2º DAM** desde **Cantabria, España** 🌧️ — convirtiendo café en aplicaciones multiplataforma, consultas SQL y contenedores que casi siempre arrancan.*
+<br/>
 
-```java
-public class Adrian {
-    String ubicacion = "Cantabria, España";
-    String curso     = "2º DAM · Desarrollo de Aplicaciones Multiplataforma";
-    String[] stack   = { "Java", "Kotlin", "C#", "SQL", "Docker" };
-    boolean funcionaEnMiMaquina = true;
-}
-```
+### Actividad
 
----
-
-### 🧪 Curiosidades de este hábitat
-
-- 🧵 **Concurrencia:** Negociando la paz entre hilos, semáforos y monitores para esquivar el *deadlock* eterno.
-- 🐳 **Contenedores:** Descubriendo que *"en mi máquina funciona"* se soluciona metiendo la máquina entera en **Docker** (y builds multietapa para que no pese media vida).
-- 📱 **Multiplataforma:** Saltando entre **Jetpack Compose**, **Java JDBC**, interfaces en **C#** y algún **ERP en Odoo** sin perder la cordura (del todo).
-- 🌧️ **Clima local:** El 80 % de mis commits ocurren mientras llueve en Cantabria. El otro 20 %, también.
-
-<details>
-<summary>🎲 Pulsa aquí para ver el algoritmo secreto de depuración</summary>
-
-1. Mirar fijamente la consola durante 3 minutos esperando que el `NullPointerException` se arrepienta.
-2. Cambiar una línea aparentemente irrelevante.
-3. Limpiar caché / reiniciar el IDE.
-4. Aceptar que ahora funciona y no volver a tocar esa clase en lo que queda de trimestre.
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/commit-invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/commit-invaders-light.svg" />
+  <img alt="Commit Invaders - Actividad real de @adriaangonz" src="./assets/commit-invaders-dark.svg" width="100%" />
+</picture>
 
 ---
 
-### 🛠️ Stack & Herramientas
+### Proyectos y repositorios
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [**agy-telegram**](https://github.com/adriaangonz/agy-telegram) | `Python` · `Whisper` | Puente de Telegram para usar Antigravity CLI desde el móvil con texto, voz, imágenes, vídeos y documentos. |
+| [**AD**](https://github.com/adriaangonz/AD) · [**PSP**](https://github.com/adriaangonz/PSP) · [**DI**](https://github.com/adriaangonz/DI) · [**DevOps**](https://github.com/adriaangonz/DevOps) | `Java` · `C#` · `SQL` · `Docker` | Prácticas de 2.º DAM: acceso a datos (JDBC), programación concurrente, interfaces gráficas y contenedores. |
+| [**JavaLand_Equipo4**](https://github.com/adriaangonz/JavaLand_Equipo4) | `Java` | Proyecto en equipo desarrollado en 1.º DAM. |
 
 ---
 
-### 📡 Por dónde ando
+### Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-@adriaan.gonz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adriaan.gonz/)
-[![X](https://img.shields.io/badge/X-@AdriaanGonz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AdriaanGonz)
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-161b22?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![C#](https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![Android](https://img.shields.io/badge/Android-161b22?style=flat-square&logo=android&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-161b22?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=0F80CC)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-161b22?style=flat-square&logo=archlinux&logoColor=1793D1)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+### Contacto
+
+[![Instagram](https://img.shields.io/badge/Instagram-@adriaan.gonz-161b22?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/adriaan.gonz/)
+[![X](https://img.shields.io/badge/X-@AdriaanGonz-161b22?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/AdriaanGonz)
