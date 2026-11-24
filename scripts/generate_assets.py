@@ -119,7 +119,7 @@ def build_header_svg(theme: str) -> str:
   <circle cx="22" cy="19" r="5" fill="#ff5f56"/>
   <circle cx="39" cy="19" r="5" fill="#ffbd2e"/>
   <circle cx="56" cy="19" r="5" fill="#27c93f"/>
-  <text x="440" y="23" text-anchor="middle" class="mono" font-size="12" fill="{text_muted}">adrian@arch — hyprland — zsh</text>
+  <text x="440" y="23" text-anchor="middle" class="mono" font-size="12" fill="{text_muted}">adrian@omarchy — hyprland — zsh</text>
 
   <!-- Left badge / geometric Arch-inspired monogram -->
   <rect x="28" y="56" width="164" height="152" rx="10" fill="{glow_bg}" stroke="{border}" stroke-width="1"/>
@@ -133,7 +133,7 @@ def build_header_svg(theme: str) -> str:
 
   <!-- Right terminal content -->
   <g transform="translate(220, 74)">
-    <text x="0" y="0" class="mono" font-size="13.5"><tspan fill="{prompt_user}" font-weight="700">adrian@arch</tspan><tspan fill="{text_muted}">:</tspan><tspan fill="{accent}" font-weight="700">~</tspan><tspan fill="{text_muted}">$ </tspan><tspan fill="{text_main}">fastfetch --profile </tspan><tspan fill="{accent}" class="cursor">█</tspan></text>
+    <text x="0" y="0" class="mono" font-size="13.5"><tspan fill="{prompt_user}" font-weight="700">adrian@omarchy</tspan><tspan fill="{text_muted}">:</tspan><tspan fill="{accent}" font-weight="700">~</tspan><tspan fill="{text_muted}">$ </tspan><tspan fill="{text_main}">fastfetch --profile </tspan><tspan fill="{accent}" class="cursor">█</tspan></text>
 
     <line x1="0" y1="14" x2="626" y2="14" stroke="{border}" stroke-width="1" stroke-dasharray="3 3"/>
 
@@ -151,7 +151,7 @@ def build_header_svg(theme: str) -> str:
 
     <text x="0" y="111" class="mono" font-size="13.5" fill="{accent}" font-weight="700">entorno</text>
     <text x="82" y="111" class="mono" font-size="13.5" fill="{text_muted}">::</text>
-    <text x="108" y="111" class="mono" font-size="13.5" fill="{text_main}">Arch Linux · Hyprland · Docker · Git</text>
+    <text x="108" y="111" class="mono" font-size="13.5" fill="{text_main}">Omarchy (Arch Linux) · Docker · Git</text>
 
     <text x="0" y="135" class="mono" font-size="13.5" fill="{accent}" font-weight="700">enfoque</text>
     <text x="82" y="135" class="mono" font-size="13.5" fill="{text_muted}">::</text>
