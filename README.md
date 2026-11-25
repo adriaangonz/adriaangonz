@@ -21,7 +21,7 @@
 | Proyecto | Stack | Descripción |
 |---|---|---|
 | [**agy-telegram**](https://github.com/adriaangonz/agy-telegram) | `Python` · `Whisper` | Puente de Telegram para usar Antigravity CLI desde el móvil con texto, voz, imágenes, vídeos y documentos. |
-| [**AD**](https://github.com/adriaangonz/AD) · [**PSP**](https://github.com/adriaangonz/PSP) · [**DI**](https://github.com/adriaangonz/DI) · [**DevOps**](https://github.com/adriaangonz/DevOps) | `Java` · `C#` · `SQL` · `Docker` | Prácticas de 2.º DAM: acceso a datos (JDBC), programación concurrente, interfaces gráficas y contenedores. |
+| [**AD**](https://github.com/adriaangonz/AD) · [**PSP**](https://github.com/adriaangonz/PSP) · [**DI**](https://github.com/adriaangonz/DI) · [**PMDM**](https://github.com/adriaangonz/pmdm) · [**DevOps**](https://github.com/adriaangonz/DevOps) | `Java` · `Kotlin` · `C#` · `SQL` · `Docker` | Prácticas de 2.º DAM: acceso a datos (JDBC), programación concurrente, interfaces gráficas, desarrollo móvil y contenedores. |
 | [**JavaLand_Equipo4**](https://github.com/adriaangonz/JavaLand_Equipo4) | `Java` | Proyecto en equipo desarrollado en 1.º DAM. |
 
 ---
